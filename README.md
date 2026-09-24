@@ -1,6 +1,6 @@
 # turkce-kelime-listesi
 Türkçe kelime listesi-Turkish Word List
 
-61433 kelimelik türkçe listesi
+81166 kelimelik türkçe listesi
 
 Klavye uygulamasında kullanmak için wordlist
